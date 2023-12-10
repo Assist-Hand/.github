@@ -1,4 +1,4 @@
-# AssistHand: Errand Assistance Platform <img src="https://github.com/Assist-Hand/.github/blob/main/profile/logo.png" alt="AssistHand Logo" width="40" height="40"> 
+# AssistHand: Errand Assistance Platform <img src="https://avatars.githubusercontent.com/u/119107979?s=400&u=febb4487b91ba289850cd98cbcfb7b572b360bbc&v=4" alt="AssistHand Logo" width="40" height="40"> 
 
 
 🌟 Welcome to AssistHand, your go-to platform for finding reliable individuals to run your errands. Whether you need groceries, a quick pickup, or help with various tasks, AssistHand connects you with trustworthy helpers in your community. The platform features a robust Django backend for seamless server operations and a sleek React JS frontend for an intuitive user interface.🚀
