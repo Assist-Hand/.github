@@ -78,6 +78,5 @@ Follow these steps to set up AssistHand locally:
 ## Links
 
 1. UI/UX design : https://figma.com
-2. System design : https://docs.google.com/spreadsheets/d/1vKvkaMWE53IQnW-ejmScK8iRKmx4tecQvzgppkFp34s/edit#gid=1406017268
-3. Software plan : https://docs.google.com/spreadsheets/d/1vKvkaMWE53IQnW-ejmScK8iRKmx4tecQvzgppkFp34s/edit#gid=1406017268
+2. System design : https://shorturl.at/dowFR
 3. Task plan : https://github.com/orgs/Assist-Hand/projects/5
