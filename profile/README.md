@@ -9,6 +9,13 @@
 - [Usage](#usage)
 - [Links](#links)
 
+## Links
+
+1. UI/UX design : https://www.figma.com/file/bstiXDuhk7jkFLU1Tdcj1q/Assisthand-App?type=design&node-id=1%3A2&mode=design&t=ReRZQB7knVfZaTrl-1
+2. System design : https://docs.google.com/spreadsheets/d/1vKvkaMWE53IQnW-ejmScK8iRKmx4tecQvzgppkFp34s/edit#gid=1406017268
+3. Task plan : https://github.com/orgs/Assist-Hand/projects/5
+
+   
 ## Features
 
 ### 1. User Authentication
@@ -75,8 +82,4 @@ Follow these steps to set up AssistHand locally:
 ```
 4. Ensure you've populated the database through `http://localhost:8000/admin-panel` (using the superuser created), when running locally.
 
-## Links
 
-1. UI/UX design : https://www.figma.com/file/bstiXDuhk7jkFLU1Tdcj1q/Assisthand-App?type=design&node-id=1%3A2&mode=design&t=ReRZQB7knVfZaTrl-1
-2. System design : https://docs.google.com/spreadsheets/d/1vKvkaMWE53IQnW-ejmScK8iRKmx4tecQvzgppkFp34s/edit#gid=1406017268
-3. Task plan : https://github.com/orgs/Assist-Hand/projects/5
